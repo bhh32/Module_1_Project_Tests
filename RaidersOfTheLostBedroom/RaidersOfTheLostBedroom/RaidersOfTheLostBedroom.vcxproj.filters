@@ -18,18 +18,18 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="reaction.cpp">
+    <ClCompile Include="InventoryItems.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="gameloop.cpp">
+    <ClCompile Include="InventoryActions.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="reaction.h">
+    <ClInclude Include="InventoryItems.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="gameloop.h">
+    <ClInclude Include="InventoryActions.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
